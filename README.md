@@ -5,3 +5,5 @@
 `docker images`: Show the ready images<br />
 `docker container ls`: List the containers<br />
 `docker container ps`: Show the running containers<br />
+`docker exec -it docker-tut-mongo bash`: Run a command in a container<br />
+`docker logs docker-tut`: Show logs of a container<br />
